@@ -1,0 +1,21 @@
+{
+  "name": "rozmowa_o_prace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
